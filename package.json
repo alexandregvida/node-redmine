@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zanran/node-redmine.git"
+    "url": "https://github.com/alexandregvida/node-redmine.git"
   },
   "author": "wayne@zanran.me",
   "license": "GPL-3.0",
